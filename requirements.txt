@@ -3,3 +3,4 @@ langchain-core==0.3.56
 langchain-community==0.3.22
 langchain-ollama==0.3.2
 opencv-python==4.11.0.86
+
