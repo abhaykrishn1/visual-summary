@@ -23,3 +23,6 @@ Summarize videos visually and textually using key frames and a local LLM Gemma 3
  Usage:
  Upload a video file in the app
  View the key frames and the generated summary
+
+
+ 
